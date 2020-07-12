@@ -1,16 +1,31 @@
 ### Hi there 👋
 
-<!--
-**Jucian0/jucian0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I’m currently working on [useform](https://github.com/Jucian0/useform), also I'm a software developer at [@sensedia](https://github.com/Sensedia).
 
-Here are some ideas to get you started:
+🌱 I’m currently learning rust lang.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 How to reach me: juciano@outlook.com.br, [Twitter](https://twitter.com/juciano_barbosa).
+
+<div align="center">
+  <table border="0" cellspacing="0" cellpadding="0">
+    <thead>
+      <tr>
+        <th>
+          <strong><a href="https://github.com/Jucian0/useform">useForm</a></strong>
+        </th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>
+          <a href="https://github.com/Jucian0/useform">
+            <img
+              alt="useFom provide a way to create complex forms easily."
+              src="https://github.com/Jucian0/useform/blob/master/img/logo3.png"
+            />
+          </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
