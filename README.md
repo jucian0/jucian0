@@ -1,10 +1,19 @@
-### Hi there 👋
+# Juciano C Barbosa
+![Twitter Follow](https://img.shields.io/twitter/follow/juciano_barbosa?style=social) ![GitHub followers](https://img.shields.io/github/followers/jucian0?style=social)
 
-🔭 I’m currently working on [useform](https://github.com/Jucian0/useform), also I'm a software developer at [@sensedia](https://github.com/Sensedia).
+> Software Developer at [@sensedia](https://github.com/Sensedia)
 
-🌱 I’m currently learning rust lang.
+## ⚡ Technologies
+Talk to me about
+- Front-end development using **ReactJs, Angular, Svelte**
+- Backend development using **Node, Rust**
+- Mobile application development using **React Native**
+- Libraries **RXJS, Redux, Immutablejs, D3, Cytoscape**
 
-📫 How to reach me: juciano@outlook.com.br, [Twitter](https://twitter.com/juciano_barbosa).
+## Hello World!! 🤔
+- 💬 Ask me about anything an everything.
+- 📫 Read my blogs: [@jucian0](https://medium.com/@jucian0)
+
 
 <div align="center">
   <table border="0" cellspacing="0" cellpadding="0">
