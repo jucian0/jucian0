@@ -1,5 +1,5 @@
 # Juciano C Barbosa
-![Twitter Follow](https://img.shields.io/twitter/follow/juciano_barbosa?style=social) ![GitHub followers](https://img.shields.io/github/followers/jucian0?style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/juciano_barbosa?label=Fallow%20jucian0&style=social) ![GitHub followers](https://img.shields.io/github/followers/jucian0?style=social)
 
 > Software Developer at [@sensedia](https://github.com/Sensedia)
 
