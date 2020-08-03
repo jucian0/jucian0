@@ -8,7 +8,7 @@ Talk to me about
 - Front-end development using **ReactJs, Angular, Svelte**
 - Backend development using **Node, Rust**
 - Mobile application development using **React Native**
-- Libraries **RXJS, Redux, Immutablejs, D3, Cytoscape**
+- Libraries **RXJS, Redux, D3, Cytoscape**
 
 ## Hello World!! 🤔
 - 💬 Ask me about anything an everything.
