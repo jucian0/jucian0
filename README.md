@@ -12,7 +12,7 @@ Talk to me about
 
 ## Hello World!! 🤔
 - 💬 Ask me about anything an everything.
-- 📫 Read my blogs: [@jucian0](https://medium.com/@jucian0)
+- 📫 Read my blogs: [@jucian0](https://medium.com/@jucian0) [@juciano](https://dev.to/jucian0)
 
 
 <div align="center">
