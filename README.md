@@ -10,7 +10,7 @@ Talk to me about
 - Mobile application development using **React Native**
 - Libraries **RXJS, Redux, D3, Cytoscape**
 
-## Hello World!! 🤔
+## Hello World!!  🤔
 - 💬 Ask me about anything an everything.
 - 📫 Read my blogs: 
 - - [meus posts no medium](https://medium.com/@jucian0) 
