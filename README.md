@@ -11,7 +11,5 @@ Talk to me about
 - Libraries **RXJS, Redux, D3, Cytoscape**
 
 ## Hello World!!  🤔
-- 💬 Ask me about anything an everything.
-- 📫 Read my blogs: 
-- - [meus posts no medium](https://medium.com/@jucian0) 
-- - [meus posts no dev.to](https://dev.to/jucian0)
+- 💬 Ask me anything.
+- 📫 Read my posts: [DEV.to](https://dev.to/jucian0)
