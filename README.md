@@ -14,4 +14,4 @@ Talk to me about
 - 💬 Ask me anything.
 - 📫 Read my posts: [DEV.to](https://dev.to/jucian0)
 
-![jucian0's github stats](https://github-readme-stats.vercel.app/api?username=jucian0&use-form&show_icons=true&theme=tokyonight)- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jucian0&show_icons=true&theme=tokyonight&layout=compact)
+![jucian0's github stats](https://github-readme-stats.vercel.app/api?username=jucian0&use-form&show_icons=true&theme=tokyonight&layout=compact)- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jucian0&show_icons=true&theme=tokyonight&layout=compact)
