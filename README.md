@@ -13,3 +13,5 @@ Talk to me about
 ## Hello World!!  🤔
 - 💬 Ask me anything.
 - 📫 Read my posts: [DEV.to](https://dev.to/jucian0)
+
+![jucian0's github stats](https://github-readme-stats.vercel.app/api?username=jucian0&show_icons=true&theme=tokyonight)- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jucian0&show_icons=true&theme=tokyonight)
