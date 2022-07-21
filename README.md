@@ -7,7 +7,7 @@ Talk to me about
 - Front-end development using **ReactJs, Angular, Svelte**
 - Backend development using **Node, Rust**
 - Mobile application development using **React Native**
-- Libraries **RXJS, Redux, D3, Cytoscape, React Query, [UseForm](https://github.com/use-form)**
+- Libraries **RXJS, Redux, D3, Cytoscape, React Query, Microfront-ends**
 
 ## Hello World!!  🤔
 - 💬 Ask me anything.
