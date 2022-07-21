@@ -4,10 +4,10 @@
 
 ## ⚡ Technologies
 Talk to me about
-- Front-end development using **ReactJs, Angular, Svelte**
+- Front-end development using **ReactJs, Angular, Svelte, Microfront-ends**
 - Backend development using **Node, Rust**
 - Mobile application development using **React Native**
-- Libraries **RXJS, Redux, D3, Cytoscape, React Query, Microfront-ends**
+- Libraries **RXJS, Redux, D3, Cytoscape, React Query, Zustand**
 
 ## Hello World!!  🤔
 - 💬 Ask me anything.
