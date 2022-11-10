@@ -9,6 +9,12 @@ Talk to me about
 - Mobile application development using **React Native**
 - Libraries **RXJS, Redux, D3, Cytoscape, React Query, Zustand**
 
-## Hello World!!  🤔
-- 💬 Ask me anything.
+## Find me
 - 📫 Read my posts: [DEV.to](https://dev.to/jucian0)
+- My Linkedin: [Linkedin](https://www.linkedin.com/in/juciano-c-barbosa/)
+- My Twitter: [Twitter](https://twitter.com/juciano_barbosa)
+
+## Some projects
+
+- Engrafia - [Engrafia](https://github.com/Jucian0/engrafia) - The easiest way to write docs for your project.
+- UseForm - [UseForm](https://github.com/Jucian0/useform) - Build forms without effort. rocket.
