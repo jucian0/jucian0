@@ -1,7 +1,5 @@
 # Juciano C Barbosa ![GitHub followers](https://img.shields.io/github/followers/jucian0?style=social)
 
-> Software Developer at [@sensedia](https://github.com/Sensedia)
-
 ## ⚡ Technologies
 Talk to me about
 - Front-end development using **ReactJs, Angular, Svelte, Microfront-ends**
@@ -17,4 +15,4 @@ Talk to me about
 ## Some projects
 
 - Engrafia - [Engrafia](https://github.com/Jucian0/engrafia) - The easiest way to write docs for your project.
-- UseForm - [UseForm](https://github.com/Jucian0/useform) - Build forms without effort. rocket.
+- UseForm - [Createform](https://github.com/Jucian0/createform) - Build forms without effort. rocket.
