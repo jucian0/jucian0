@@ -10,7 +10,7 @@ Talk to me about
 ## Find me
 - 📫 Read my posts: [DEV.to](https://dev.to/jucian0)
 - My Linkedin: [Linkedin](https://www.linkedin.com/in/juciano-c-barbosa/)
-- My Twitter: [Twitter](https://twitter.com/senhor_dev)
+- My Twitter: [Twitter](https://twitter.com/juciano_barbosa)
 
 ## Some projects
 
