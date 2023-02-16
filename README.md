@@ -1,4 +1,4 @@
-# Juciano C Barbosa ![GitHub followers](https://img.shields.io/github/followers/jucian0?style=social) ![Twitter Follow](https://img.shields.io/twitter/follow/juciano_barbosa?label=Juciano&style=social)
+# Juciano C Barbosa ![GitHub followers](https://img.shields.io/github/followers/jucian0?style=social) ![![Twitter Follow](https://img.shields.io/twitter/follow/juciano_barbosa?label=Juciano&style=social)](https://twitter.com/juciano_barbosa)
 
 ## ⚡ Technologies
 Talk to me about
