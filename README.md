@@ -2,7 +2,7 @@
 
 ## ⚡ Technologies
 Talk to me about
-- Front-end development using **ReactJs, Angular, Svelte, Microfront-ends**
+- Front-end development using **ReactJs, Angular, SolidJs, Microfront-ends**
 - Backend development using **Node, Rust**
 - Mobile application development using **React Native**
 - Libraries **RXJS, Redux, D3, Cytoscape, React Query, Zustand, SolidJS NextJs, Remix**
