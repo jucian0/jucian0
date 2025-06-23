@@ -5,7 +5,7 @@ Talk to me about
 - Front-end development using **ReactJs, Angular, SolidJs, Microfront-ends**
 - Backend development using **Node, Rust**
 - Mobile application development using **React Native**
-- Libraries **RXJS, Redux, D3, Cytoscape, React Query, Zustand, SolidJS NextJs, Remix**
+- Libraries **RXJS, Redux, D3, Cytoscape, React Query, Zustand, SolidJS NextJs, React Router**
 
 ## Find me
 - 📫 Read my posts: [DEV.to](https://dev.to/jucian0)
